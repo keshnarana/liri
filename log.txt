@@ -1,0 +1,541 @@
+
+Please input a correct command.
+
+provide more information
+the+who
+
+--------------------The Who-------------------------------
+
+Date: 09/01/2019
+Name: Madison Square Garden
+City: New York
+Location: NY
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,moving on,Moon Vs Sun-------------------------------
+
+Date: 09/03/2019
+Name: Scotiabank Arena
+City: Toronto
+Canada
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+Date: 09/06/2019
+Name: Xcel Energy Center
+City: St Paul
+Location: MN
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Peter Wolf-------------------------------
+
+Date: 09/10/2019
+City: Cuyahoga Falls
+Location: OH
+United States
+
+---------------------------------------------------
+
+Date: 09/15/2019
+Name: Northwell Health at Jones Beach Theater
+
+--------------------The Who-------------------------------
+
+Location: NY
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+City: Wantagh
+Date: 09/18/2019
+Name: State Farm Arena
+City: Atlanta
+Location: GA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+Date: 09/20/2019
+Name: BB&T Center
+City: Sunrise
+Location: FL
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+Date: 09/22/2019
+Name: Amalie Arena
+City: Tampa
+Location: FL
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+Date: 09/25/2019
+Name: Toyota Center
+City: Houston
+Location: TX
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Reignwolf-------------------------------
+
+Date: 09/27/2019
+Name: American Airlines Center
+City: Dallas
+Location: TX
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Liam Gallagher-------------------------------
+
+Date: 10/09/2019
+City: San Francisco
+Location: CA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who-------------------------------
+
+Date: 10/11/2019
+Name: Chase Center
+Name: Hollywood Bowl
+City: Hollywood
+Location: CA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who-------------------------------
+
+Date: 10/13/2019
+Name: Hollywood Bowl
+City: Hollywood
+Location: CA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Liam Gallagher-------------------------------
+
+Date: 10/16/2019
+Name: Viejas Arena at Aztec Bowl San Diego State University
+City: San Diego
+Location: CA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Liam Gallagher-------------------------------
+
+Date: 10/19/2019
+Name: T-Mobile Park
+City: Seattle
+Location: WA
+United States
+
+---------------------------------------------------
+
+
+--------------------The Who,Liam Gallagher-------------------------------
+
+Date: 10/21/2019
+Name: Rogers Arena
+City: Vancouver
+Canada
+
+---------------------------------------------------
+
+
+--------------------The Who,Liam Gallagher-------------------------------
+
+Date: 10/24/2019
+Name: Hollywood Bowl
+City: Hollywood
+Location: CA
+United States
+
+---------------------------------------------------
+
+Name: Blossom Music Center
+
+Title: Mr. Nobody
+The movie was made in: 2009
+Produced in: Belgium, Germany, Canada, France, USA, UK
+IMDB Rating: 7.8
+Languages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 67%
+lion+king
+Title: The Lion King
+The movie was made in: 1994
+Rotten Tomatoes Rating: 93%
+Languages: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+Produced in: USA
+IMDB Rating: 8.5
+
+Artist: Harry Styles
+Song name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Artist: Ty Dolla $ign
+Artist: XXXTENTACION
+Song name: Scared of the Dark (feat. XXXTENTACION)
+Spotify link: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+ 
+Artist: Ty Dolla $ign
+Artist: The Weeknd
+Artist: Wiz Khalifa
+Artist: Mustard
+Song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Spotify link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+ 
+Artist: Ace of Base
+Song name: The Sign
+Spotify link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+ 
+Artist: Dreamville
+Artist: Ari Lennox
+Artist: Omen
+Artist: Ty Dolla $ign
+Artist: Dreezy
+Song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+Spotify link: https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL
+Album: Revenge Of The Dreamers III
+ 
+Artist: Ty Dolla $ign
+Song name: Hottest In The City
+Spotify link: https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4
+Album: Hottest In The City
+ 
+Artist: Jeremih
+Artist: Ty Dolla $ign
+Song name: Impatient
+Spotify link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+ 
+Artist: Harry Styles
+Song name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+ 
+Artist: YBN Cordae
+Artist: Ty Dolla $ign
+Song name: Way Back Home (feat. Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/1pHyMdmKAp494PDSZhJHvR
+Album: The Lost Boy
+ 
+Artist: Mac Miller
+Artist: Ty Dolla $ign
+Song name: Cinderella (feat. Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Album: The Divine Feminine
+ 
+Album: Harry Styles
+Artist: Jeremih
+Artist: Ty Dolla $ign
+Song name: The Light
+Spotify link: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Album: The Light
+ 
+Artist: Jeezy
+Artist: Ty Dolla $ign
+Song name: 4Play
+Spotify link: https://open.spotify.com/track/0LjuiJpPE8f3GfA1mTndkR
+Album: TM104: The Legend of the Snowman
+ 
+Artist: Ty Dolla $ign
+Artist: Lil Wayne
+Artist: The-Dream
+Song name: Love U Better (feat. Lil Wayne & The-Dream)
+Spotify link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
+Album: Beach House 3
+ 
+Artist: The Chainsmokers
+Artist: Ty Dolla $ign
+Artist: bülow
+Song name: Do You Mean
+Spotify link: https://open.spotify.com/track/0ZBP7LB2JvzoaKsBFElGRF
+Album: World War Joy...Takeaway
+ 
+Artist: Rich The Kid
+Artist: Miguel
+Artist: Ty Dolla $ign
+Song name: Woah (feat. Miguel & Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/2lAUMDyWq80slJVsrYyD7N
+Album: The World Is Yours 2
+ 
+Artist: Quality Control
+Artist: Lil Yachty
+Artist: Ty Dolla $ign
+Song name: Movin’ Up
+Spotify link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
+Album: Quality Control: Control The Streets Volume 1
+ 
+Artist: Jeezy
+Artist: Ty Dolla $ign
+Song name: 4Play
+Spotify link: https://open.spotify.com/track/1GuvS5Zyu2RK2TeHODZn90
+Album: TM104: The Legend of the Snowman
+ 
+Artist: Jeremih
+Artist: Ty Dolla $ign
+Song name: The Light
+Spotify link: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
+Album: MIH-TY
+ 
+Artist: Ace of Base
+Song name: All That She Wants
+Spotify link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Album: The Sign (US Album) [Remastered]
+ 
+Artist: Coldplay
+Song name: Warning Sign
+Spotify link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Album: A Rush of Blood to the Head
+ 
+ 
+Artist: Lil Wayne
+bad+romance
+Artist: Halestorm
+Song name: Bad Romance - EP Version
+Spotify link: https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl
+Album: ReAniMate: The CoVeRs eP
+ 
+Artist: Artist Vs Poet
+Spotify link: https://open.spotify.com/track/4srUSbTEbA2aJhEgcw0rqx
+Song name: Bad Romance
+Artist: Glee Cast
+Album: Punk Goes Pop, Vol. 3
+Song name: Bad Romance (Glee Cast Version)
+Spotify link: https://open.spotify.com/track/0LpE5tfNe15QLvQL4YDi7T
+ 
+Artist: Scott Bradlee's Postmodern Jukebox
+Artist: Ariana Savalas
+Artist: Sarah Reich
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/5xrHvVmSF3ui0EKI8FArv3
+Album: Emoji Antique
+ 
+Artist: The Chipmunks & The Chipettes
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/4uWkPwumtRvims6GK3gjHr
+Album: Chipwrecked (Music From The Motion Picture)
+ 
+Artist: Lady Gaga
+Song name: Bad Romance - Skrillex Remix
+Spotify link: https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp
+Album: Bad Romance Remixes
+ 
+Artist: Lady Gaga
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/0kv8hQMkkfBlJxHTBIUvhP
+Album: Bad Romance
+ 
+Artist: On The Rocks
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY
+Album: A Fifth
+ 
+Artist: Lissie
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/4VY2DwVDxoBEp26FUUS3ir
+Album: Covered up with Flowers
+ 
+Artist: Rockabye Baby!
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/7M6Zd2QcpyNdpIJ5tfo2wo
+Album: Lullaby Renditions of Lady Gaga
+ 
+Artist: Simply Three
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/4NfJKjHvup61eA1um9UZoV
+Album: Simply Three
+ 
+Artist: Vitamin String Quartet
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/76FjBfcmOUuMoyY8m7NVru
+Album: VSQ Performs Lady Gaga
+ 
+Artist: Thirty Seconds To Mars
+Song name: Bad Romance - Live
+Spotify link: https://open.spotify.com/track/6FOkXQQZgwjW2PpHxkTuyv
+Album: This Is War (Deluxe)
+ 
+Artist: Pomplamoose
+Song name: A Bad Mashup: Bad Romance / Bad Blood / Bad Boys / Bad
+Spotify link: https://open.spotify.com/track/4iM8qC9ejlZHOyIAudvj40
+Album: Best of 2018
+ 
+Artist: Lady Gaga
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn
+Album: The Fame Monster (Deluxe Edition)
+ 
+Artist: Veil
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2
+Album: Bad Romance
+ 
+Artist: Jay Smith
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/3HxGbvROONeW5gVsZX94PC
+Album: Jay Smith
+ 
+Artist: Amit Rohan
+Song name: Moment Of A Bad Romance
+Spotify link: https://open.spotify.com/track/49IMBD8ozt4GtlJuJAX0Z8
+Album: Ivory Relaxation
+ 
+Artist: Berk & The Virtual Band
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/2s2m91pWPLt11THe0k8PxQ
+Album: Jazz Chill, Vol. 4
+ 
+Artist: Lady Gaga
+Song name: Bad Romance
+Spotify link: https://open.spotify.com/track/60O5jKT5JqRVWuKHhyXqwk
+Album: Best of the Best
+ 
+ 
+Album: Glee: The Music, Volume 3 Showstoppers
+
+Please input a correct command.
+
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+ 
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+ 
+Artist: Mick Jensen
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd
+Album: I Want It That Way
+ 
+Artist: Anthem Lights
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+ 
+Artist: Backstreet Boys
+Song name: I Want It That Way - Reimagined
+Spotify link: https://open.spotify.com/track/62KnDRUq6CBcT7Bqb9IHKV
+Album: I Want It That Way (Reimagined)
+ 
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+ 
+Artist: Dynamite Boy
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc
+Album: Punk Goes Pop
+Artist: Jess and Gabriel
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH
+Album: The Hits--Chapter One
+Album: Under the Covers, Vol. 3
+ 
+Artist: Steel Panther
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+ 
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+ 
+Artist: Glee Cast
+Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+ 
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+ 
+Artist: Scary Pockets
+Artist: Casey Abrams
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Album: Nu Funk
+ 
+Artist: Boyce Avenue
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Album: Cover Sessions, Vol. 2
+ 
+Artist: CaryLamb
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3v2tDdRn9dtbxGrkjx7t5d
+Album: Boulevard You
+ 
+Artist: Manuel Costa
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Album: I Want It That Way
+ 
+Artist: Scott Bradlee's Postmodern Jukebox
+Artist: Shoshana Bean
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Album: Selfies on Kodachrome
+ 
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+ 
+Artist: Yshop
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5
+Album: I Want It That Way
+ 
+Artist: #90s Update
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Album: #90s Update
+ 
+ 
